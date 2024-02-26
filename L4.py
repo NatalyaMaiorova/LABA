@@ -10,9 +10,12 @@ elif (a==2 and b==3) or (a==3 and b==2):
 elif (a==1 and b==3) or (a==3 and b==1):
     print("оранжевый")
 
-if a!=1 and a!=2 and a!=3 :
+else:
     print("Такого цвета не существует")
 
-if b!=1 and b!=2 and b!=3 :
-    print("Такого цвета не существует")
+#if a!=1 and a!=2 and a!=3 :
+    #print("Такого цвета не существует")
+
+#if b!=1 and b!=2 and b!=3 :
+    #print("Такого цвета не существует")
 
